@@ -1,4 +1,4 @@
-# Fashion-MNIST-Classification-with-Kersa
+# Fashion-MNIST-Classification-with-Keras
 
 The Fashion-MNIST clothing classification problem is a new standard dataset used in computer vision and deep learning.
 
